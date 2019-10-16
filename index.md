@@ -55,7 +55,7 @@ VR콘텐츠를 즐기기 위해 HMD를 착용핛 경우, 실제 키보드와 맀
 - 중요 구현 기술
   - 구글카드보드지를 이용하여, 유니티 사용하여 어플리케이션 개발 
   
-<img src="images/vrPro1.png?raw=true"/>
+<img src="images/vrPro1.PNG?raw=true"/>
 <img src="images/vrPro2.png?raw=true"/>
 
 ---
