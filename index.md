@@ -15,11 +15,14 @@ DB서버는 AWS를 가용 현재는 프리웨어 만료로인해 사용중지
 <img src="images/reviewPage?raw=true"/>
 <img src="images/myPage1.png?raw=true"/>
 <img src="images/myPage2.png?raw=true"/>
+
 ---
+
+
 ## 2. Food
 
 Java, Java Swing을 사용하여 기본적인 어플리케이션 구현
-[github 주소](https://github.com/YoonYeoSong/food_KH)
+* [github 주소](https://github.com/YoonYeoSong/food_KH)
 <img src="images/food.gif?raw=true"/>
 
 ---
@@ -34,6 +37,12 @@ VR콘텐츠를 즐기기 위해 HMD를 착용핛 경우, 실제 키보드와 맀
    - 체스 게임에 기본 적인 규칙들을 적용하여, 킹을 잡을 경우 승리하게 됩니다. 
 - 사용 툴
   - VS 2015, Unity3D, Photon Server, OculusRift, LeapMotion
+
+<img src="images/c0.png?raw=true"/>
+<img src="images/c1.png?raw=true"/>
+<img src="images/c3.png?raw=true"/>
+<img src="images/ccc.gif?raw=true"/>
+
 
 ---
 
