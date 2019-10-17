@@ -21,8 +21,6 @@ DB서버는 AWS를 가용 현재는 프리웨어 만료로인해 사용중지
 <img src="images/myPage2.png?raw=true"/>
 
 ---
-
-
 ## 2. Food
 
 Java, Java Swing을 사용하여 기본적인 어플리케이션 구현
@@ -31,11 +29,11 @@ Java, Java Swing을 사용하여 기본적인 어플리케이션 구현
 
 ---
 ## 3. VR기반 모션인식을 이용한 실시간 전략체스 게임
-VR콘텐츠를 즐기기 위해 HMD를 착용핛 경우, 실제 키보드와 맀우스를 볼 수 없어 조작이 불편하고 컨트롤이 제한적인 점을 보완하기 위해 모션인식 센서(LeapMotion)를 이용하여 VR콘텐츠의 핵심인 몰입도를 극대화 시킨 체스 게임을 개발하였습니다. 
+VR콘텐츠를 즐기기 위해 HMD를 착용한 경우, 실제 키보드와 맀우스를 볼 수 없어 조작이 불편하고 컨트롤이 제한적인 점을 보완하기 위해 모션인식 센서(LeapMotion)를 이용하여 VR콘텐츠의 핵심인 몰입도를 극대화 시킨 체스 게임을 개발하였습니다. 
 
 - 중요 구현 기술
-  - Photon Server를 이용하여 실시갂으로 체스게임을 할 수 있도록 구현하였고, 체스 말을 컨트롤 핛 수 있는 깃발을 제어하여 턴 방식으로 게임을 짂행 핛 수 있게 구현하였습니다.
-  - Raycast를 이용하여 체스 말이 이동핛 수 있는 범위를 체크하고, LeapMotion으로 체스 말의 깃발을 잡아 컨트롤 할 수 있도록 구현하였습니다. 
+  - Photon Server를 이용하여 실시간으로 체스게임을 할 수 있도록 구현하였고, 체스 말을 컨트롤 할 수 있는 깃발을 제어하여 턴 방식으로 게임을 진행 할 수 있게 구현하였습니다.
+  - Raycast를 이용하여 체스 말이 이동할 수 있는 범위를 체크하고, LeapMotion으로 체스 말의 깃발을 잡아 컨트롤 할 수 있도록 구현하였습니다. 
  
   - OculusRift SDK를 연동하고,어지러움을 최소화하기 위해 부드러운 카메라 이동처리 구현과 화려한 캐릭터 애니메이션과 파티클을 사용해 몰입도를 향상시켰습니다. 
    - 체스 게임에 기본 적인 규칙들을 적용하여, 킹을 잡을 경우 승리하게 됩니다. 
@@ -124,8 +122,6 @@ SNK에서 제작한 횡스크롤 액션 아케이트 게임인 메탈슬러그�
 
 <img src="images/eng1.png?raw=true"/>
 <img src="images/eng2.png?raw=true"/>
-
---
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
