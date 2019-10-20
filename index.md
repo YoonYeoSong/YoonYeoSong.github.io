@@ -12,7 +12,7 @@ DB서버는 AWS를 가용 현재는 프리웨어 만료로인해 사용중지
 * [github 주소](https://github.com/YoonYeoSong/ParkingSpring)
 
 - 사용 기술 및 툴
-  - JAVA, JS, HTML, Jquery, CSS, BootStrap4, JSP, SpringFrameWork, AWS(ubuntu), Tomcat 8.5, Git, Oracle, OpenAPI(REST or JS)
+  - JAVA, JS, HTML, Jquery, CSS, BootStrap4, Mybatis, JSP, SpringFrameWork, AWS(ubuntu), Tomcat 8.5, Git, Oracle, OpenAPI(REST or JS)
   - Ecripes, vsCode, git Bash, SQL Developer, window10
 <img src="images/mainPage.png?raw=true"/>
 <img src="images/searchPage.png?raw=true"/>
