@@ -8,6 +8,8 @@ Spring FrameWork를 사용해 프로젝트를 진행
 (가상 결제도 가능 임의적으로 가상의 사업자DB를 만들어 사용) - 상용목적이 아닌 공부목적
 DB서버는 AWS를 가용 현재는 프리웨어 만료로인해 사용중지
 
+기존 Spring을 적용하지 않고 Servlet만으로 구현
+* [servlet으로 구현한 오리지날 링크](https://github.com/YoonYeoSong/Parking)
 * [Parking pdf 링크](https://github.com/YoonYeoSong/YoonYeoSong.github.io/blob/master/pdf/Semi-Project.pdf)
 * [github 주소](https://github.com/YoonYeoSong/ParkingSpring)
 
