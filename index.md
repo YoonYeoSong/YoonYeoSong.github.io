@@ -23,14 +23,43 @@ DB서버는 AWS를 가용 현재는 프리웨어 만료로인해 사용중지
 <img src="images/myPage2.png?raw=true"/>
 
 ---
-## 2. Food
+
+---
+## 2. workMan
+Spring FrameWork를 사용해 프로젝트를 진행
+StackOverFlow를 모티브로 삼아 공부목적으로 웹페이지 구성
+비밀번호 암호화 사용 - 단방향
+구인 게시판, 가입 / 로그인, SMTP를 활용으로 비밀번호 재설정, trello를 모방한 페이지 제작
+
+개발자로서 중요한 부분 중 하나는 의견 및 정보공유라고 생각합니다. 
+국내 개발자 포럼 및 커뮤니티 를 보면서,  좀 더 개선된 웹사이트를 만들고 싶었습니다.
+
+게시판 기능을 제공하여 커뮤니티를 활성화 하고, 실시간 구인구직 데이터 조회, 그룹스터디, 실시간 협업 메모 툴, 자유게시판, QnA 및 관리자 페이지 등을 포함한 웹 어플리케이션을 만들게 됐습니다.
+
+* [workMan github](https://github.com/YoonYeoSong/developMental)
+* [workMan detailes pdf 링크](https://github.com/YoonYeoSong/YoonYeoSong.github.io/blob/master/pdf/workman.pdf)
+
+- 사용 기술 및 툴
+  - JAVA, JS, HTML, Jquery, CSS, BootStrap4, Mybatis, JSP, SpringFrameWork, Tomcat 8.5, Git, Oracle
+  - Ecripes, vsCode, git Bash, SQL Developer, window10
+  
+<img src="images/workMain.PNG?raw=true"/>
+<img src="images/workSign.png?raw=true"/>
+<img src="images/workSMTP.png?raw=true"/>
+<img src="images/workMy.png?raw=true"/>
+<img src="images/workjob.png?raw=true"/>
+<img src="images/workjob2.png?raw=true"/>
+<img src="images/col.png?raw=true"/>
+
+---
+## 3. Food
 
 Java, Java Swing을 사용하여 기본적인 어플리케이션 구현
 * [github 주소](https://github.com/YoonYeoSong/food_KH)
 <img src="images/food.gif?raw=true"/>
 
 ---
-## 3. VR기반 모션인식을 이용한 실시간 전략체스 게임
+## 4. VR기반 모션인식을 이용한 실시간 전략체스 게임
 VR콘텐츠를 즐기기 위해 HMD를 착용한 경우, 실제 키보드와 맀우스를 볼 수 없어 조작이 불편하고 컨트롤이 제한적인 점을 보완하기 위해 모션인식 센서(LeapMotion)를 이용하여 VR콘텐츠의 핵심인 몰입도를 극대화 시킨 체스 게임을 개발하였습니다. 
 
 - 중요 구현 기술
@@ -49,7 +78,7 @@ VR콘텐츠를 즐기기 위해 HMD를 착용한 경우, 실제 키보드와 맀
 
 
 ---
-## 4. VR 집현전
+## 5. VR 집현전
 2015년 한글날 특전 세종문화회관 전시 작품
 한글날 우리나라 한글이 위대하다는 것을 널리 알리는 목적으로 만들어진 어플리케이션
 - 중요 구현 기술
@@ -59,7 +88,7 @@ VR콘텐츠를 즐기기 위해 HMD를 착용한 경우, 실제 키보드와 맀
 <img src="images/vrPro2.png?raw=true"/>
 
 ---
-## 5. Paint Girl
+## 6. Paint Girl
 닌텐도 스플래툰과 모방하여 공부목적으로 만든 어플리케이션
 페인트를 이용해 땅을 더 많이 칠한 사람이 승리하는 게임
 
@@ -77,7 +106,7 @@ VR콘텐츠를 즐기기 위해 HMD를 착용한 경우, 실제 키보드와 맀
 <img src="images/paintG.gif?raw=true"/>
 
 ---
-## 6. Flee or Face
+## 7. Flee or Face
 1인칭 3D 게임, 최대 8명, 전체 인원의 50%를 랜덤으로 뽑아서 좀비로 시작하고 주기적으로 좀비와 사람이 바뀌는 멀티 플레이 LAN 게임
 키보드와 xbox컨트롤러 사용가능
 킨텍스 R&D 대전 참가 기간 16/11/17 ~ 16/11/19
@@ -94,7 +123,7 @@ VR콘텐츠를 즐기기 위해 HMD를 착용한 경우, 실제 키보드와 맀
 <img src="images/fg.gif?raw=true"/>
 
 ---
-# 7. 메탈슬러그(모작-학습목표)
+# 8. 메탈슬러그(모작-학습목표)
 SNK에서 제작한 횡스크롤 액션 아케이트 게임인 메탈슬러그를 WinAPI로 모작하였습니다(간단하게 모작하여 학습)
 처음 접하는 winAPi이기 때문에 화면 깜빡임 해결이 가장 어려웠습니다. 이 과정에서 더블 버퍼링에 대해 공부하게 되었습니다.
 
@@ -112,7 +141,7 @@ SNK에서 제작한 횡스크롤 액션 아케이트 게임인 메탈슬러그�
 <img src="images/metal1.png?raw=true"/>
 
 --
-## 8. EBS 초목달(데모)
+## 9. EBS 초목달(데모)
 (주)스** 회사에서 국가에서 진행하는 국가근로장학생으로 4개월간 다니며 EBS 초등영어 어플리케이션 데모 버전을 개발
 
 - 중요 구현 기술
