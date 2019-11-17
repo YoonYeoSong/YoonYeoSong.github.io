@@ -44,12 +44,12 @@ StackOverFlow를 모티브로 삼아 공부목적으로 웹페이지 구성
   - Ecripes, vsCode, git Bash, SQL Developer, window10
   
 <img src="images/workMain.PNG?raw=true"/>
-<img src="images/workSign.png?raw=true"/>
-<img src="images/workSMTP.png?raw=true"/>
-<img src="images/workMy.png?raw=true"/>
-<img src="images/workjob.png?raw=true"/>
-<img src="images/workjob2.png?raw=true"/>
-<img src="images/col.png?raw=true"/>
+<img src="images/workSign.PNG?raw=true"/>
+<img src="images/workSMTP.PNG?raw=true"/>
+<img src="images/workMy.PNG?raw=true"/>
+<img src="images/workjob.PNG?raw=true"/>
+<img src="images/workjob2.PNG?raw=true"/>
+<img src="images/col.PNG?raw=true"/>
 
 ---
 ## 3. Food
